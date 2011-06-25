@@ -11,11 +11,11 @@
 				'version'		=> '1.0.4',
 				'release-date'	=> '2010-08-07',
 				'author'		=> array(
-					'name' => 'Doug Stewart',
-					'website' => 'http://www.designbyadmiral.com',
-					'email' => 'doug@designbyadmiral.com'
+					'name' => 'Brian Zerangue',
+					'website' => 'http://brianzerangue.com',
+					'email' => 'brian.zerangue@gmail.com'
 				),
-				'description' => 'Adds a WMD Editor to every textarea field on every entry page.'
+				'description' => 'Adds a WMD Editor to every textarea field on every entry page. Forked from Doug Stewart. Using OpenLibrary/RobinBrouwer version of WMD'
 			);
 		}
 		
