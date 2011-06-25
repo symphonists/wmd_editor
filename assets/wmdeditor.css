@@ -6,6 +6,7 @@
 	}
 .wmd-button-bar+textarea {
 	margin-top: 0;
+	padding: 5px 10px;
 	}
 .wmd-button-bar {
 	width: 100%;
@@ -19,7 +20,8 @@
 	border: 1px solid #aaa;
 	}
 .wmd-preview {
-	background-color: #bbb; 
+	background-color: #ddd; 
+	padding: 5px 10px;
 	}
 .wmd-output { 
 	background-color: red;
@@ -88,7 +90,7 @@
 	background-color: #F5F5F5;
 	}
 .wmd-prompt-dialog > div {
-	font-size: 0.8em;
+	font-size: 1em;
 	font-family: arial, helvetica, sans-serif;
 	}
 .wmd-prompt-dialog > form > input[type="text"] {
@@ -98,6 +100,6 @@
 .wmd-prompt-dialog > form > input[type="button"]{
 	border: 1px solid #888888;
 	font-family: trebuchet MS, helvetica, sans-serif;
-	font-size: 0.8em;
+	font-size: 1em;
 	font-weight: bold;
 	}
