@@ -8,8 +8,8 @@
 		public function about() {
 			return array(
 				'name'			=> 'WMD Editor',
-				'version'		=> '1.0.5',
-				'release-date'	=> '2011-06-25',
+				'version'		=> '1.0.6',
+				'release-date'	=> '2011-07-07',
 				'author'		=> array(
 					'name' => 'Brian Zerangue',
 					'website' => 'http://brianzerangue.com',
