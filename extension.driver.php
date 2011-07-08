@@ -1,6 +1,6 @@
 <?php
 	
-	class Extension_WMDEditor extends Extension {
+	class Extension_WMD_Editor extends Extension {
 	/*-------------------------------------------------------------------------
 		Definition:
 	-------------------------------------------------------------------------*/
