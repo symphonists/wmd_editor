@@ -1,7 +1,7 @@
 WMD Editor
 -------------------------------------------------------------------------------
 
-Version: 1.0.5
+Version: 1.0.6
 Author: Brian Zerangue, Doug Stewart
 Build Date: 25 June 2011
 Requirements: Symphony 2.x, Markdown Extension
@@ -21,6 +21,9 @@ Installation
 
 Change Log
 -------------------------------------------------------------------------------
+Version 1.0.6
+- Fixed typo in extension.driver.php file; not should be able to install.
+
 Version 1.0.5 
  - Updated the WMD library based off of the OpenLibrary version of WMD, and used Robin Brouwer's fork of it.
 
